@@ -10,7 +10,7 @@
 
 * Se debe hacer cuando tengamos archivos innecesarios que prefieramos ignorar.
 
-* Se lo crea con el comando *'echo'* y se colocan los archivos que se quieran ignorar en lineas separadas, siempre respetando el nombre exacto del mismo e incluyendo la extensión.
+* Primero cree el archivo con el comando *'echo'* en el git bash. Posteriormente usé la página [TopTal](https://www.toptal.com/developers/gitignore/api/executable,visualstudiocode,c++,git) para ayudarme con la inclusión de otros archivos propios de VS Code, git, el mismo lenguaje c++ y ejecutables.
 
 ## Punto 3 
 
